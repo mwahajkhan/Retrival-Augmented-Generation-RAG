@@ -1,6 +1,11 @@
 # RAG-Chatbot
 
-This project implements a Retrieval-Augmented Generative (RAG) chatbot that leverages Chromadb for document retrieval and OpenAI for generating responses grounded in retrieved information.
+> streamlit 
+> chromadb
+> langchain
+> OpenAI
+
+This project implements a Retrieval-Augmented Generative (RAG) chatbot that leverages Chromadb for document retrieval and OpenAI for generating responses grounded in retrieved information. 
 
 ## Setting Up the Environment
 
@@ -68,9 +73,9 @@ Chroma DB creation to store the chunked documents via embeddings.
 
 * Document Exploration: Defines a function pretty_print_docs to display retrieved documents in a user-friendly format (content and title/metadata).
 Uses the function to print details of the retrieved documents.
+
 * Retrieval-Augmented QA Chain:
-> Creates a RetrievalQA chain object (commented out, potentially an alternative approach).
-> Creates a chain that combines the LLM, retriever, and parser in sequence. This chain retrieves documents based on the user query and then uses the LLM to > generate a response considering the retrieved documents.
-?Invokes the chain with a new question ("Author of the book?").
-Prints the LLM's generated response.
-Again displays the retrieved documents using the pretty_print_docs function for reference.
+> Creates a RetrievalQA chain object.
+> Creates a chain that combines the LLM, retriever, and parser in sequence. 
+> This chain retrieves documents based on the user query and then uses the LLM to generate a response considering the retrieved documents.
+
