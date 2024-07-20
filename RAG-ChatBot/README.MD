@@ -1,6 +1,6 @@
 # RAG-Chatbot
 
-This project implements a Retrieval-Augmented Generative (RAG) chatbot that leverages Chromadb for document retrieval and OpenAI for generatingresponses grounded in retrieved information.
+This project implements a Retrieval-Augmented Generative (RAG) chatbot that leverages Chromadb for document retrieval and OpenAI for generating responses grounded in retrieved information.
 
 ## Setting Up the Environment
 
@@ -16,7 +16,7 @@ This project implements a Retrieval-Augmented Generative (RAG) chatbot that leve
   
 3. Install Required Packages:
 
-* Install the necessary libraries using a requirements.txt file to ensure consistent dependencies: *
+*Install the necessary libraries using a requirements.txt file to ensure consistent dependencies:*
 
 pip install -r requirements.txt
 
