@@ -63,10 +63,10 @@ llm chain piping components of this retrieval mechanism.
      http://localhost:8501
 
 https://github.com/mwahajkhan/Retrival-Augmented-Generation-RAG/blob/b875b3ed52453260a3d4161622b5b822f5e3f501/RAG-ChatBot/Screenshot.png
+
 ![Image description](RAG-ChatBot/Screenshot.png)
 
-![Image description](RAG-ChatBot/https://github.com/mwahajkhan/Retrival-Augmented-Generation-RAG/blob/b875b3ed52453260a3d4161622b5b822f5e3f501/RAG-ChatBot/Screenshot.png
-)
+
 
 3. chroma-create
 
