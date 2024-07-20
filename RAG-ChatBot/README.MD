@@ -63,7 +63,7 @@ llm chain piping components of this retrieval mechanism.
      http://localhost:8501
 
 
-
+screenshot.png
 
 
 3. chroma-create
