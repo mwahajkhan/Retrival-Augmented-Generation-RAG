@@ -55,6 +55,17 @@ llm chain piping components of this retrieval mechanism.
 * Message History Display: It iterates through the history object and displays each message (human or AI) using st.chat_message and st.write.
 * User Input and Response: It uses st.chat_input to capture user questions and then runs the llm_chain to generate a response. Finally, it displays both the user's question and the LLM's response using st.chat_message and st.write.
 
+* To create streamlit session:
+
+     terminal:
+          streamlit run sessions.py
+* In browser:
+     http://localhost:8501
+
+
+
+
+
 3. chroma-create
 
 * Document Loading and Cleaning.
