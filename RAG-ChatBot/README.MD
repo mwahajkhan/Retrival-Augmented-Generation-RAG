@@ -62,6 +62,8 @@ llm chain piping components of this retrieval mechanism.
 * In browser:
      http://localhost:8501
 
+<img src=RAG-ChatBot/Screenshot.png
+
 
 3. chroma-create
 
