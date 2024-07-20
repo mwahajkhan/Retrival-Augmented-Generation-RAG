@@ -16,14 +16,14 @@ This project implements a Retrieval-Augmented Generative (RAG) chatbot that leve
 
 2. Activate the virtual environment to use its packages:
 
-                > source .venv/bin/activate  # Linux/macOS
-                >  .venv\Scripts\activate.bat  # Windows
+                 source .venv/bin/activate  # Linux/macOS
+                .venv\Scripts\activate.bat  # Windows
   
 3. Install Required Packages:
 
       *Install the necessary libraries using a requirements.txt file to ensure consistent dependencies:*
 
-               >  pip install -r requirements.txt
+                 pip install -r requirements.txt
 
 
 # Obtain API Keys:
