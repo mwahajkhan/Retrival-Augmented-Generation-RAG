@@ -63,8 +63,6 @@ llm chain piping components of this retrieval mechanism.
      http://localhost:8501
 
 
-RAG-ChatBot/Screenshot.png
-
 3. chroma-create
 
 * Document Loading and Cleaning.
